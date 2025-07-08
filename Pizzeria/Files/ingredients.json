@@ -1,0 +1,30 @@
+[
+  {
+    "ProductId":1,
+    "Ingredients": [
+      { "Id": 1,"Name": "Flour", "Amount": 0.25 },
+      { "Id": 2,"Name": "Tomato Sauce", "Amount": 0.10 },
+      { "Id": 3,"Name": "Cheese", "Amount": 0.15 },
+      { "Id": 4,"Name": "Basil", "Amount": 0.01 }
+    ]
+  },
+  {
+    "ProductId": 2,
+    "Ingredients": [
+      { "Id": 1, "Name": "Flour", "Amount": 0.25 },
+      { "Id": 2,"Name": "Tomato Sauce", "Amount": 0.10 },
+      { "Id": 3,"Name": "Cheese", "Amount": 0.15 },
+      { "Id": 4,"Name": "Pepperoni", "Amount": 0.20 }
+    ]
+  },
+  {
+    "ProductId": 3,
+    "Ingredients": [
+      {"Id": 1,"Name": "Flour", "Amount": 0.25 },
+      {"Id": 2,"Name": "Tomato Sauce", "Amount": 0.10 },
+      {"Id": 3,"Name": "Cheese", "Amount": 0.15 },
+      {"Id": 5,"Name": "Bell Peppers", "Amount": 0.10 },
+      {"Id":6, "Name": "Olives", "Amount": 0.05 }
+    ]
+  }
+]

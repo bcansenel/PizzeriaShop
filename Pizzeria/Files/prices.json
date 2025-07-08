@@ -1,0 +1,17 @@
+[
+  {
+    "ProductId": 1,
+    "ProductName": "Margherita Pizza",
+    "Price": 8.50
+  },
+  {
+    "ProductId": 2,
+    "ProductName": "Pepperoni Pizza",
+    "Price": 10.00
+  },
+  {
+    "ProductId": 3,
+    "ProductName": "Veggie Pizza",
+    "Price": 9.00
+  }
+]
